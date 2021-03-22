@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public static int addNums(int a, int b){
-        return 0;
+        return a + b;
     }
 }
